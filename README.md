@@ -5,4 +5,4 @@ This project uses logistic regresion model as they are more interpretable and us
 Also to enhace churn prediction Random forest classifier is also used.
 
 
-#creditt card
+#credit card
