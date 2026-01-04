@@ -5,4 +5,9 @@ This project uses logistic regresion model as they are more interpretable and us
 Also to enhace churn prediction Random forest classifier is also used.
 
 
-#credit card
+#credit card:This project aims to detect fraudulent credit card transactions using a distance-based machine learning algorithm (K-Nearest Neighbors) by leveraging similarity between transaction patterns.Dataset used is credit card fraud detection from Kaggle
+
+The project focuses on:
+Handling severely imbalanced data
+Applying distance-based learning
+Evaluating models using appropriate fraud-specific metrics
